@@ -1,0 +1,8 @@
+<module rename-to="jzlib">
+	<inherits name="com.google.gwt.user.User"/>
+	<inherits name="com.google.gwt.user.theme.standard.Standard"/>
+  <source path='jzlib'/>
+  <inherits name="java.MyJava"/>
+  <inherits name="hu.newphrox.java.javaio"/>
+<!--<super-source path="jre" />-->
+</module>

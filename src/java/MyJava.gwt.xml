@@ -1,0 +1,14 @@
+<module rename-to="myjava">
+	<inherits name="com.google.gwt.user.User"/>
+	<inherits name="com.google.gwt.user.theme.standard.Standard"/>
+	
+		<inherits name='java.myJava'/>
+		  <inherits name="com.jcraft.Jzlib"/>
+		
+  <source path='io'/>
+  <source path='lang'/>
+  <source path='util'/>
+
+  
+<!--<super-source path="jre" />-->
+</module>
