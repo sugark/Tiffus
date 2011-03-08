@@ -33,4 +33,4 @@ As a GWT project it runs super fast in Development Mode (Java VM), but quite slo
 Paralelly I am on to migrate complete Java Advanced Imaging (JAI) library to GWT.
 
 Regards,
-Sugár Krisztián from phrox
+Sugar Krisztian from phrox
